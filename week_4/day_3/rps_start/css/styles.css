@@ -1,0 +1,33 @@
+body {
+    border: 5px solid black;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+h1 {
+    color: blue;
+}
+
+
+.lose {
+    color: red;
+}
+
+.win {
+    color: green;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: grey;
+}
